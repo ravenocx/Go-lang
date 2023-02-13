@@ -45,4 +45,5 @@ func main (){
     fmt.Printf("%0.2f\n", 16.540)
     fmt.Printf("%.3f\n", 16.540)
     fmt.Printf("%.5f\n", 16.540)
+	
 }
