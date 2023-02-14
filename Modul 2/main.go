@@ -21,8 +21,8 @@ func main(){
 	var trafficLamp string
 
 	fmt.Print("Masukkan Kondisi Lampu Lalu Lintas = ")
-	// fmt.Scanf("%s", &trafficLamp) 
-	fmt.Scan(&trafficLamp)
+	fmt.Scanf("%s", &trafficLamp) 
+	// fmt.Scan(&trafficLamp)
 
 	switch trafficLamp {
 	case "Hijau":

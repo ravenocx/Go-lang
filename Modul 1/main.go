@@ -25,7 +25,8 @@ func main (){
 
 	name := "Haris"
 	fmt.Println("%s buy orange with price : %d", name, jeruk)
-	fmt.Printf("%s buy orange with price : Rp.%d \n", name, hargaJeruk)
+	fmt.Printf("%s buy orange with price : Rp.%v \n", name, hargaJeruk)
+	//%v -> Default
 	word := fmt.Sprintf("(this is sprintf) %s buy orange with price : Rp.%d\n", name, hargaJeruk)
 	fmt.Print(word)
 
