@@ -25,6 +25,7 @@ func main() {
 	// 		break
 	// 	}
 	// }
+	
 	fruits := [3]string{"apple", "orange", "banana"}
 
 	for _, val := range fruits {

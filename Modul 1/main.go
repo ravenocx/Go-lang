@@ -22,7 +22,6 @@ func main (){
 	fmt.Println("--------------------")
 
 	///////////////////////////////////////////
-
 	name := "Haris"
 	fmt.Println("%s buy orange with price : %d", name, jeruk)
 	fmt.Printf("%s buy orange with price : Rp.%v \n", name, hargaJeruk)
